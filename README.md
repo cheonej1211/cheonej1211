@@ -4,7 +4,7 @@
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=EunJi%20Cheon&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 </div>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">🛠 Stack 🛠</h3>
 <div align="center">
   
 ![Java](https://img.shields.io/badge/java-%232671E5.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,4 +29,12 @@
   <a href="s">
     <img src="https://github-readme-stats.vercel.app/api?username=cheonej1211&theme=tokyonight&show_icons=true" width="42%" />
   </a>
+</div>
+
+<br>
+<br>
+<br>
+
+<div align="center">
+<a href="https://velog.io/@bluedmoel" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </div>
