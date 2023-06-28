@@ -20,3 +20,13 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 </div>
 
+
+<div align="center">
+  <a href="s">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheonej1211&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+  </a>
+&emsp;
+  <a href="s">
+    <img src="https://github-readme-stats.vercel.app/api?username=cheonej1211&theme=tokyonight&show_icons=true" width="42%" />
+  </a>
+</div>
